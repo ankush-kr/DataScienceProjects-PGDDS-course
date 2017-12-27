@@ -1,2 +1,2 @@
-# Investment-Case-Study
-The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.
+# DataScienceProjects-PGDDS-course
+This repository contains all my case studies/Projects done during my Data Science diploma from IIITB and UpGrad
